@@ -18,14 +18,22 @@ Helpful Knowledge: Statistics, Machine Learning, Data Visualization, and Ability
 Also, all civic hackers who want to use data visualization and statistics can look at the notebooks and provide comments and suggestions. These notebooks are meant for YOU, hence you are not only welcome, but encouraged, to provide feedback if you feel they can be improved. 
 
 Current Outline:
+
 1. Complete Prologue.
+
 2. Decide the Table of Contents.
+
 3. Gather helpful references and relevant datasets.
+
 4. Complete each chapter in a linear fashion. The order of chapters will start with motivations and basic statistics, and will advance in difficulty as the chapters progress.
 
 Disclaimer: Although my interests are in machine learning and statistics, I do not consider myself an expert in either. This project will be a learning experience for me as much as I hope it will be for you.
 
 Current Status: **WOEFULLY INCOMPLETE**
+
 Short-term goal: Prologue: Complete it.
+
 Chapter 1: Complete Simpson’s Paradox example.
+
 Then post prologue and Chapter 1 in IPython NbViewer.
+
