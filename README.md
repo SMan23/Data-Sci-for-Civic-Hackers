@@ -25,5 +25,7 @@ Current Outline:
 
 Disclaimer: Although my interests are in machine learning and statistics, I do not consider myself an expert in either. This project will be a learning experience for me as much as I hope it will be for you.
 
-
-Short-term goal: Complete Simpson’s Paradox example.
+Current Status: **WOEFULLY INCOMPLETE**
+Short-term goal: Prologue: Complete it.
+Chapter 1: Complete Simpson’s Paradox example.
+Then post prologue and Chapter 1 in IPython NbViewer.
